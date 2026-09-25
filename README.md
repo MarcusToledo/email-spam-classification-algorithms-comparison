@@ -5,7 +5,7 @@ Estudo comparativo de sete algoritmos de machine learning para classificar email
 descobrir qual modelo oferece o melhor equilíbrio entre acerto geral, detecção de spam e
 preservação de emails legítimos.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcusToledo/email-spam-classification-algorithms-comparison/blob/master/ml_spam_email.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MarcusToledo/email-spam-classifier-benchmark/blob/master/ml_spam_email.ipynb)
 ![Python](https://img.shields.io/badge/python-3-3776AB?logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-notebook-F37626?logo=jupyter&logoColor=white)
@@ -48,12 +48,12 @@ Precisão, recall, F1, matrizes de confusão e todos os gráficos estão em
 
 ## Início rápido
 
-Abra no [Google Colab](https://colab.research.google.com/github/MarcusToledo/email-spam-classification-algorithms-comparison/blob/master/ml_spam_email.ipynb)
+Abra no [Google Colab](https://colab.research.google.com/github/MarcusToledo/email-spam-classifier-benchmark/blob/master/ml_spam_email.ipynb)
 e execute **Runtime → Run all**, ou rode localmente:
 
 ```bash
-git clone https://github.com/MarcusToledo/email-spam-classification-algorithms-comparison.git
-cd email-spam-classification-algorithms-comparison
+git clone https://github.com/MarcusToledo/email-spam-classifier-benchmark.git
+cd email-spam-classifier-benchmark
 pip install pandas numpy matplotlib scikit-learn jupyter
 jupyter notebook ml_spam_email.ipynb
 ```
@@ -66,12 +66,12 @@ jupyter notebook ml_spam_email.ipynb
 | [Metodologia](docs/metodologia.md) | Pipeline, dataset, decisões de projeto, hiperparâmetros e fórmulas das métricas |
 | [Guia de uso](docs/guia-de-uso.md) | Execução, parâmetros configuráveis, como adicionar modelos e solução de problemas |
 | [Contribuindo](CONTRIBUTING.md) | Como contribuir, estrutura do repositório e ideias de evolução |
-| [Artigo (PDF)](email-spam-classification-algorithms-comparison.pdf) | *Análise Comparativa de Modelos de Classificação para Detecção de Spam em Emails* |
+| [Artigo (PDF)](email-spam-classifier-benchmark.pdf) | *Análise Comparativa de Modelos de Classificação para Detecção de Spam em Emails* |
 
 ## Licença
 
 - **Código** (notebook e demais arquivos): [MIT](LICENSE).
-- **Artigo** (`email-spam-classification-algorithms-comparison.pdf`):
+- **Artigo** (`email-spam-classifier-benchmark.pdf`):
   [CC BY 4.0](LICENSE-ARTICLE.md). Você pode reutilizar e adaptar o texto, desde que cite
   o autor.
 

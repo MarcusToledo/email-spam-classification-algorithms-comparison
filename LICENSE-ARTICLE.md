@@ -1,6 +1,6 @@
 # Licença do artigo
 
-O artigo [`email-spam-classification-algorithms-comparison.pdf`](email-spam-classification-algorithms-comparison.pdf)
+O artigo [`email-spam-classifier-benchmark.pdf`](email-spam-classifier-benchmark.pdf)
 — *Análise Comparativa de Modelos de Classificação para Detecção de Spam em Emails* —
 © 2024 Marcus Toledo, está licenciado sob a
 [Creative Commons Atribuição 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br).

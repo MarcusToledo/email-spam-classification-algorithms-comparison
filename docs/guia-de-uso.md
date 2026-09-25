@@ -9,14 +9,14 @@
 ### Google Colab
 
 Abra o notebook no
-[Google Colab](https://colab.research.google.com/github/MarcusToledo/email-spam-classification-algorithms-comparison/blob/master/ml_spam_email.ipynb)
+[Google Colab](https://colab.research.google.com/github/MarcusToledo/email-spam-classifier-benchmark/blob/master/ml_spam_email.ipynb)
 e execute **Runtime → Run all**.
 
 ### Localmente
 
 ```bash
-git clone https://github.com/MarcusToledo/email-spam-classification-algorithms-comparison.git
-cd email-spam-classification-algorithms-comparison
+git clone https://github.com/MarcusToledo/email-spam-classifier-benchmark.git
+cd email-spam-classifier-benchmark
 
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate

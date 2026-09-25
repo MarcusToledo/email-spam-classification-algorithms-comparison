@@ -87,4 +87,4 @@ $$
 $$
 
 A fundamentação teórica de cada algoritmo está no
-[artigo](../email-spam-classification-algorithms-comparison.pdf).
+[artigo](../email-spam-classifier-benchmark.pdf).

@@ -18,7 +18,7 @@ O [Guia de uso](docs/guia-de-uso.md) explica como executar o notebook e adiciona
 ```text
 .
 ├── ml_spam_email.ipynb                                   # Notebook com todo o experimento
-├── email-spam-classification-algorithms-comparison.pdf   # Artigo com a análise completa
+├── email-spam-classifier-benchmark.pdf                   # Artigo com a análise completa
 ├── assets/                                               # Gráficos exportados do notebook
 │   ├── accuracy.png
 │   ├── precision-recall-f1.png
